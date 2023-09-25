@@ -1,0 +1,143 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto Serif', serif;
+    font-family: 'Roboto Slab', serif;
+    background: rgba(0, 0, 0, 1);
+    outline: none;
+
+}
+
+.img-main {
+    width: 583px;
+    height: 374px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+
+
+
+}
+
+h2 {
+    color: rgba(255, 255, 255, 1);
+    font-weight: 400;
+    Size: 32px;
+
+    margin-left: 850px;
+
+    width: 299px;
+    height: 20px;
+    margin-top: 200px;
+
+
+
+
+
+
+
+}
+
+.input-one {
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    margin-left: 600px;
+    margin-top: 40px;
+    background: linear-gradient(0deg, rgba(255, 255, 255, 0.25), rgba(255, 255, 255, 0.25)),
+        linear-gradient(0deg, rgba(255, 255, 255, 0.2), rgba(255, 255, 255, 0.2));
+    width: 342px;
+    height: 74px;
+
+    padding: 13px, 233px, 30px, 16px;
+    border-radius: 14px;
+    border: 1px;
+    color: rgba(255, 255, 255, 1);
+    font-weight: 31px;
+    top: 13px;
+    left: 16px;
+
+    font-size: 40px;
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+.input-two {
+    background: linear-gradient(0deg, rgba(255, 255, 255, 0.25), rgba(255, 255, 255, 0.25)),
+        linear-gradient(0deg, rgba(255, 255, 255, 0.2), rgba(255, 255, 255, 0.2));
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    color: rgba(255, 255, 255, 1);
+    margin-left: 70px;
+    width: 342px;
+    height: 74px;
+
+    padding: 13px, 233px, 30px, 16px;
+    border-radius: 14px;
+    border: 1px;
+
+
+    font-weight: 31px;
+    top: 13px;
+    left: 16px;
+
+    font-size: 40px;
+
+
+
+
+
+}
+
+button {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-left: 800px;
+    margin-top: 60px;
+    width: 342px;
+    height: 72px;
+    padding: 0px, 76px, 0px, 76px;
+    border-radius: 10px;
+    background: rgba(174, 195, 70, 1);
+    font-weight: 700;
+    font-size: 36px;
+    color: rgba(255, 255, 255, 1);
+    cursor: pointer;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+button:hover {
+    opacity: 0.9;
+}
+
+button:active {
+    opacity: 0.7;
+}
